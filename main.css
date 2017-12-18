@@ -48,7 +48,7 @@ nav.navbar-slide.show-menu {
 .navbar-default .navbar-nav > .active > a:focus {
     box-sizing: border-box;
     background-color: transparent;
-    color: #347CD9;
+    color: #5a646e;
     font-weight: 500;
 }
 
