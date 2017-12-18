@@ -90,10 +90,9 @@ nav.navbar-slide.show-menu {
 }
 
 .copyright-text {
-    margin-bottom: 0;
-    font-family: lato;
+    font-family: "Raleway", "Lato", sans-serif;
     font-size: 14px;
     font-weight: 300;
-    line-height: 1.8em;
     color: #5a646e;
+    margin-bottom: 0;
 }
