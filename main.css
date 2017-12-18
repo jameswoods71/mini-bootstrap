@@ -20,6 +20,11 @@ h4 {
     line-height: 1.3em;
 }
 
+.padding-tp-btm-low {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 /* 
 * ==========================================================================
       Navbar
