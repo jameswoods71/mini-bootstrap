@@ -85,13 +85,9 @@ nav.navbar-slide.show-menu {
     color: #347CD9;
 }
 
-.fa-arrow-up {
-	padding-top: 12px;
-}
-
 .copyright-text {
     font-family: "Raleway", "Lato", sans-serif;
-    font-size: 14px;
+    font-size: 30px;
     font-weight: 300;
     color: #5a646e;
     margin-bottom: 0;
