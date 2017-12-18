@@ -85,6 +85,10 @@ nav.navbar-slide.show-menu {
     color: #347CD9;
 }
 
+.fa-arrow-up {
+	padding-top: 12px;
+}
+
 .copyright-text p {
     margin-bottom: 0;
     font-family: lato;
