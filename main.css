@@ -1682,6 +1682,7 @@ p.features-tagline {font-size:1.5em}
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
+	z-index: 1;
 }
 
 .copyright-menu {
