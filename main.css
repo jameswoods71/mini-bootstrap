@@ -1678,11 +1678,12 @@ p.features-tagline {font-size:1.5em}
     font-family: lato;
 }
 
-.copyright-footer {
-	position: absolute;
-	bottom: 0px;
-	width: 100%;
-	z-index: 1;
+.copyright-section {
+    font-family: "Raleway", "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.8em;
+    color: #191919;
 }
 
 .copyright-menu {
